@@ -2,7 +2,7 @@
 
 ## Figma
 
-- Prototype: [Add Figma share link here]
+- Prototype:(https://www.figma.com/design/WTGILkC1ip6XFrbnkVU4gu/Q-for-Qs?node-id=0-1&t=w82zS5dXBE4O0AVK-1)
 
 ## Notes
 
