@@ -2,7 +2,7 @@
 
 ## Figma
 
-- Prototype:(https://www.figma.com/design/WTGILkC1ip6XFrbnkVU4gu/Q-for-Qs?node-id=0-1&t=w82zS5dXBE4O0AVK-1)
+- Prototype:https://www.figma.com/proto/WTGILkC1ip6XFrbnkVU4gu/Q-for-Qs?page-id=0%3A1&team_id=1434353309101159703&node-id=1-3&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&t=Ej5TfudDT3pWSVWC-1
 
 ## Notes
 
